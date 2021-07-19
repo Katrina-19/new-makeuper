@@ -1,0 +1,114 @@
+{
+  "cosmetics": [
+    {
+      "id": 0,
+      "imageUrl": "https://biogarden.by/upload/iblock/88a/pomada_dlya_gub_uvlazhnyayushchaya_06_persikovaya_roza_aprikola_dr_hauschka.jpg",
+      "name": "Помада",
+      "types": [0, 1],
+      "tons": [1, 2, 3],
+      "price": 42,
+      "category": 0,
+      "rating": 4
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://biogarden.by/upload/iblock/9ab/karandash_dlya_gub_04_molochno_shokoladnyy_dr_hauschka.jpg",
+      "name": "Карандаш для губ",
+      "types": [0, 1],
+      "tons": [1, 2, 3],
+      "price": 46,
+      "category": 0,
+      "rating": 6
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://biogarden.by/upload/iblock/834/tush_dlya_resnits_obyemnaya_02_korichnevaya_dr_hauschka.jpg",
+      "name": "Тушь",
+      "types": [0, 1],
+      "tons": [1, 2, 3],
+      "price": 80,
+      "category": 1,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://biogarden.by/upload/iblock/41e/teni_dlya_vek_i_brovey_v_nabore_01_stoun_dr_hauschka.jpg",
+      "name": "Палетка",
+      "types": [1],
+      "tons": [1, 2, 3],
+      "price": 107,
+      "category": 1,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://biogarden.by/upload/iblock/da2/bb_krem_ukhazhivayushchiy_solntsezashchitnyy_s_toniruyushchim_effektom_66_sand_beige_sativa.jpg",
+      "name": "BB-крем",
+      "types": [0, 1],
+      "tons": [1, 2, 3],
+      "price": 48,
+      "category": 2,
+      "rating": 8
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://biogarden.by/upload/iblock/6f2/sukhoy_mineralnyy_khaylayter_gold_flash_levrana.jpg",
+      "name": "Хайлайтер",
+      "types": [0, 1],
+      "tons": [1, 2, 3],
+      "price": 14,
+      "category": 2,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://biogarden.by/upload/iblock/316/regeneriruyushchiy_krem_dlya_litsa_i_zony_dekolte_vasilek_levrana.jpg",
+      "name": "Крем для лица",
+      "types": [0, 1],
+      "tons": [1, 2, 3],
+      "price": 18,
+      "category": 3,
+      "rating": 9
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://biogarden.by/upload/iblock/4f5/vitamin_c_2_glyceryl_glucoside_0_9_true_alchemy.jpg",
+      "name": "Маска для лица",
+      "types": [0, 1],
+      "tons": [1, 2, 3],
+      "price": 30,
+      "category": 3,
+      "rating": 10
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://i.yavitrina.ru/get-marketpic/202381/market_NjO3ypR3iVt-k6yWPhbgoQ/200x200",
+      "name": "Кисть для пудры",
+      "types": [1],
+      "tons": [1],
+      "price": 36,
+      "category": 4,
+      "rating": 10
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://biogarden.by/upload/iblock/083/toniziruyushchiy_krem_dlya_vek_dlya_yunoy_kozhi_malina_20_levrana.jpg",
+      "name": "Крем для век",
+      "types": [0, 1],
+      "tons": [1, 2, 3],
+      "price": 14,
+      "category": 3,
+      "rating": 7
+    },
+    {
+      "id":10,
+      "imageUrl": "https://images.ua.prom.st/953145751_w200_h200_sponzh-dlya-makiyazha.jpg",
+      "name": "Спонж для макияжа",
+      "types": [1],
+      "tons": [1],
+      "price": 26,
+      "category": 4,
+      "rating": 7
+    }
+  ]
+}

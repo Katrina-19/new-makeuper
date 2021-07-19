@@ -1,0 +1,28 @@
+{
+  "javascript.format.insertSpaceAfterConstructor": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "typescript.format.insertSpaceAfterConstructor": true,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+  "typescript.format.insertSpaceAfterTypeAssertion": true,
+  "typescript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "editor.formatOnSave": false,
+  "editor.snippetSuggestions": "top",
+  "prettier.tabWidth":2,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.semi": true,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.printWidth": 100,
+  "emmet.triggerExpansionOnTab": true,
+
+  "cSpell.enableFiletypes": ["sql", "xml", "xsl"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.linkedEditing": true
+}
