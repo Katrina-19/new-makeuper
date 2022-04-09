@@ -4,7 +4,7 @@ import { useSelector, useDispatch } from 'react-redux';
 import { setCategory, setSortBy } from '../redux/actions/filters';
 import { fetchCosmetics } from '../redux/actions/cosmetic';
 
-const categoryNames = ['Губы', 'Глаза', 'Кожа лица', 'Уходовая', 'Аксессуары','Глаза', 'Кожа лица', 'Уходовая', 'Аксессуары'];
+const categoryNames = ['Губы', 'Глаза', 'Кожа лица', 'Уходовая', 'Аксессуары'];
 const sortItems = [
   { name: 'популярности', type: 'popular', order:'desc' },
   { name: 'цене', type: 'price', order:'desc' },
@@ -50,7 +50,6 @@ function Home() {
         onClickSortType={onSelectSortType} />
 
       </div>
-      <Button />
       <h2 className="content__title">Вся косметикa</h2>
       <div className="content__items">
       {isLoaded
